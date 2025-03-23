@@ -9,4 +9,4 @@ function genericFunction<T>(val: T): T{
 // More detailed - also here T or Type is same. It can be H, or anything you like
 function genericFunctionTwo<Type>(val: Type): Type{
     return val
-}s
+}

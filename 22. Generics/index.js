@@ -9,4 +9,3 @@ function genericFunction(val) {
 function genericFunctionTwo(val) {
     return val;
 }
-s;
